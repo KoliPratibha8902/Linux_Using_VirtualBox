@@ -21,3 +21,6 @@
 ### Final Assessment:
 There are many Subtopics in that
 Successfully completed the course assessment with a score of more than 80%.
+
+![Certificate Diagram](Linux_Network_Administrator_Certificate.jpg)
+
